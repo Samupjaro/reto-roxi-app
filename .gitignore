@@ -1,0 +1,9 @@
+# dependencias
+node_modules
+
+# producción
+/build
+
+# sistema
+.DS_Store
+Thumbs.db
