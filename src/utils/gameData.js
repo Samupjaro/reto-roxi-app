@@ -7,7 +7,7 @@ export const initialChallenges = [
   { id: 6, type: 'quiz', prompt: 'Cual es mi pelicula favorita aparte la de tinkerbell', options: ['jurassic world', 'cars', 'spider man '], correct: 0, revealedTile: [1, 1] },
   { id: 7, type: 'code', prompt: 'Si me tumbas, soy todo. Si me cortas por la cintura, me quedo en nada. ¿Qué soy?', code: '8', revealedTile: [1, 2] },
   { id: 8, type: 'quiz', prompt: 'Cuando Cumple Salomon?', options: ['15 de septiembre', '15 de julio', '15 de marzo'], correct: 2, revealedTile: [1, 3] },
-  { id: 9, type: 'code', prompt: '¿Qué desbloquea todo?', code: 'victoria', revealedTile: [2, 0] },
+  { id: 9, type: 'code', prompt: 'mi comida preferida es?', code: 'spaguetis', revealedTile: [2, 0] },
   { id: 10, type: 'quiz', prompt: '¿Número de piezas?', options: ['12', '16', '20'], correct: 1, revealedTile: [2, 1] },
   { id: 11, type: 'code', prompt: 'Persona muy especial', code: 'roxi', revealedTile: [2, 2] },
   { id: 12, type: 'quiz', prompt: 'la respuesta en mi bio de tik tok', options: ['hola', '⚽', '...'], correct: 2, revealedTile: [2, 3] },
